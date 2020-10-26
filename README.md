@@ -18,4 +18,15 @@ All other scripts used in this project can be found at [package.json](./package.
 # How to setup Hasura and GraphQL
 I am using Postgres SQL being managed in a Hasura environment. So the instance is available at Hasura. </br>
 The GraphQL endpoint used is `https://lasting-shad-69.hasura.app/v1beta1/graphql`. Do consider mailing me in order to get access to the console.</br>
-And the project is hosted at Heroku sourcing from the main branch.
+And the project is hosted at Heroku sourcing from the development branch.
+
+## Live Preview
+The application is hosted at `yellowcreek.herokuapp.com` with automatic CI from the deployment branch.
+
+## Further Developments 
+<li>
+    1.Add authentication to the application. [Refer this](https://www.youtube.com/watch?v=kHCLQEKjdnI&feature=emb_rel_pause)
+    2.Add styling using React Js.
+    3. Spam protection
+    4. Prevent cross browser script attacks
+</li>
