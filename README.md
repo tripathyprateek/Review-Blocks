@@ -28,9 +28,9 @@ And the project is hosted at Heroku sourcing from the development branch.
 The application is hosted at `yellowcreek.herokuapp.com` with automatic CI from the deployment branch.
 
 ## Further Developments 
-<li>
-    1.Add authentication to the application. [Refer this](https://www.youtube.com/watch?v=kHCLQEKjdnI&feature=emb_rel_pause)
-    2.Add styling using React Js.
-    3. Spam protection
-    4. Prevent cross browser script attacks
-</li>
+<ol>
+    <li>Add authentication to the application.Refer this https://www.youtube.com/watch?v=kHCLQEKjdnI&feature=emb_rel_pause</li>
+    <li>Add styling using React Js.</li>
+    <li> Spam protection</li>
+    <li> Prevent cross browser script attacks</li>
+</ol>
