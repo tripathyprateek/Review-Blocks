@@ -10,7 +10,7 @@ const LogoText = styled.h1`
 `;
 
 const Logo = () => {
-    return <LogoText>Yelp Clone by Prateek</LogoText>;
+  return <LogoText>Review Blocks</LogoText>;
 };
 
 export default Logo;

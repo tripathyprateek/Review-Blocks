@@ -11,12 +11,12 @@ const Container = styled.div`
 `;
 
 const InputForm = ({ inputVal, onChange, onSubmit, buttonText }) => {
-    return (
-        <Container>
-            <Input value={inputVal} onChange={onChange} />
-            <Button onClick={onSubmit}>{buttonText || "Search"}</Button>
-        </Container>
-    );
+  return (
+    <Container>
+      <Input value={inputVal} onChange={onChange} />
+      <Button onClick={onSubmit}>{buttonText || "Search"}</Button>
+    </Container>
+  );
 };
 
 export default InputForm;
